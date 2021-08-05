@@ -1,0 +1,15 @@
+#Q Is it a mammal?
+#Q Does it have stripes?
+#Q Is it a zebra?
+#A Is it a leopard?
+#A Is it a elephant?
+#Q Can it swim ?
+#A Is it a dolphin?
+#A Is it a dog?
+#Q Is it a spider?
+#Q Can it fly?
+#A Is it a bird?
+#A Is it a tutle?
+#Q Can it jump?
+#A Is it a frog?
+#A Is it a butterfly
